@@ -2,8 +2,8 @@
 // Created by Noah Burnham on 9/30/24.
 //
 
-#ifndef M2OEP_NBURNHAM_TWEET_H
-#define M2OEP_NBURNHAM_TWEET_H
+#ifndef TWITTER_TWEET_H
+#define TWITTER_TWEET_H
 
 #include "User.h"
 #include <string>
@@ -84,4 +84,4 @@ public:
 };
 
 
-#endif //M2OEP_NBURNHAM_TWEET_H
+#endif //TWITTER_TWEET_H
